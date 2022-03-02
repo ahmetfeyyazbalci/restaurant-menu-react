@@ -1,5 +1,5 @@
 
-you can visit my website from here [restauran menu](https://restaurantmenureact.netlify.app/)
+you can visit website from here [restauran menu](https://restaurantmenureact.netlify.app/)
 
 
 # restaurant-menu-react
