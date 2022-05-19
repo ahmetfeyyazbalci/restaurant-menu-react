@@ -11,7 +11,7 @@ you can visit website from here [restauran menu](https://restaurantmenureact.net
 ___
 **Clone the project**
 ```
-  htpp://github.com/ahmetfeyyazbalci/restaurant-menu-react
+  htpp://github.com/feyyazbalci/restaurant-menu-react
 
 ```
 
